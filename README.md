@@ -13,9 +13,11 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](<img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
-     width="400" 
-     height="500" />)
+![alt text]
+
+<img src="https://github.com/francispoh/francispoh/blob/main/002.jpg" 
+     width="300" 
+     height="300" />
 
 <!-- Add your details -->
 
